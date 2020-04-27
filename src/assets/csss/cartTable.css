@@ -1,0 +1,29 @@
+.items{
+    border-collapse: collapse;
+    width: 60%;
+    margin: 0 auto;
+    
+}
+
+.items td, .items th {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+
+
+.items tr:nth-child(even){background-color: #f2f2f2;}
+
+.items tr:hover {background-color: #ddd;}
+
+.items th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  
+}
+
+.conta{
+    text-align: center;
+    margin: 0 auto;
+    
+}
